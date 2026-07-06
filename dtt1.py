@@ -53,3 +53,10 @@ for row in cursor.fetchall():
     print(f"Cert: {row[0]:<15} | Brand: {row[1]:<25} | Certified Status: {row[2]}")
 
 conn.close()
+-- This query looks for the brand and displays it based on its certification type
+
+
+SELECT certification_type, brand_name, is_certified
+FROM cruelty_free_brands
+WHERE brand_name LIKE :user_search_input
+ORDER BY certification_type ASC;
