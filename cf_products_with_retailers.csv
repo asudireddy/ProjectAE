@@ -1,0 +1,923 @@
+,Brand,All_vegan,Partial_vegan,Bad_parent_company,Black_owned,Ulta,Sephora,Beauty_Bay,Cult_Beauty,Nordstrom
+0,100% Pure,False,False,False,False,0,0,0,0,0
+1,100BON,True,False,False,False,0,0,0,0,0
+2,1121 Apothecary,True,False,False,False,0,0,0,0,0
+3,21 Drops,True,False,False,False,0,0,0,0,0
+4,2B,False,False,False,False,0,0,0,0,0
+5,2nd KIND,True,False,False,False,0,0,0,0,0
+6,"7 Virtues, The",True,False,False,False,0,1,0,0,0
+7,8 Greens,False,False,False,False,0,1,0,0,0
+8,A Girl’s Gotta Spa,True,False,False,False,0,0,0,0,0
+9,ABBA Pure Performance Hair Care,False,False,True,False,0,0,0,0,0
+10,AG Hair,False,False,False,False,1,0,0,0,0
+11,AG Hair Cosmetics,False,False,False,False,0,0,0,0,0
+12,AILA Cosmetics,True,False,False,False,0,0,0,0,0
+13,AURIC,False,False,False,False,0,0,0,0,0
+14,AYRES,True,False,False,False,0,0,0,0,0
+15,AZATURE,True,False,False,False,0,0,0,0,0
+16,About Face,True,False,False,False,0,0,0,0,0
+17,Ace Beaute,False,False,False,True,0,0,0,0,0
+18,Acid-2-Alkaline,True,False,False,False,0,0,0,0,0
+19,Activist Skincare,True,False,False,False,0,0,0,0,0
+20,Acure,True,False,False,False,1,0,0,0,0
+21,Adorn Cosmetics,True,False,False,False,0,0,0,0,0
+22,Adwoa Beauty,False,False,False,False,0,1,0,0,0
+23,Aether Lashes,True,False,False,False,0,0,0,0,0
+24,Aeva Beauty,False,False,False,True,0,0,0,0,0
+25,Afrocenchix,True,False,False,True,0,0,0,0,0
+26,Ageless Derma,False,False,False,False,0,0,0,0,0
+27,Ahimsa Naturals,True,False,False,False,0,0,0,0,0
+28,Ainhoa Cosmetics,False,False,False,False,0,0,0,0,0
+29,Akamai,True,False,False,False,0,0,0,0,0
+30,Alaska Glacial Mud Co.,False,False,False,False,0,0,0,0,0
+31,Alba Botanica,False,False,False,False,0,0,0,0,0
+32,Aldi,False,False,False,False,0,0,0,0,0
+33,Alexami,False,False,False,False,0,0,0,0,0
+34,Alima Pure,False,False,False,False,0,0,0,0,1
+35,"All Natural Face, The",True,False,False,False,0,0,0,0,0
+36,All Terrain,False,False,False,False,0,0,0,0,0
+37,Alma Botanicals,False,False,False,False,0,0,0,0,0
+38,Alo Glow System,True,False,False,False,0,0,0,0,0
+39,Alpyn Beauty,False,False,False,False,0,1,0,0,0
+40,Ambre Blends,False,False,False,False,0,0,0,0,0
+41,Amika,False,False,False,False,0,1,0,0,0
+42,Amopé,False,False,False,False,1,0,0,0,0
+43,Anastasia Beverly Hills,False,False,False,False,1,1,1,1,1
+44,Andalou Naturals,False,False,False,False,1,0,0,0,0
+45,Anita Grant,False,False,False,True,0,0,0,0,0
+46,Annabelle Minerals,False,False,False,False,0,0,0,0,0
+47,Annmarie Gianni Skin Care,False,False,False,False,0,0,0,0,0
+48,Antipodes,False,False,False,False,0,0,0,0,0
+49,Antonym,False,False,False,False,0,1,0,0,1
+50,Antonym Cosmetics,False,False,False,False,0,0,0,0,0
+51,Apoterra Skincare,False,False,False,False,0,0,0,0,0
+52,Apothecary 90291,False,False,False,False,0,0,0,0,0
+53,Aquis,False,False,False,False,1,1,0,0,1
+54,Arbonne,True,False,False,False,0,0,0,0,0
+55,Arctic Fox,True,False,False,False,1,0,0,0,0
+56,Ardell,False,False,False,False,1,0,1,0,0
+57,"Argan Tree, The",False,False,False,False,0,0,0,0,0
+58,Ariana Grande Fragrances,False,False,False,False,0,0,0,0,0
+59,Aromi,True,False,False,False,0,0,0,0,0
+60,Art Naturals,False,False,False,False,1,0,0,0,0
+61,Aster + Bay,False,False,False,False,0,0,0,0,0
+62,Astonish Cleaning Products,True,False,False,False,0,0,0,0,0
+63,Athar’a,True,False,False,False,0,0,0,0,0
+64,Athena Club,False,False,False,False,0,0,0,0,0
+65,Athr Beauty (formerly Aether Beauty),True,False,False,False,0,1,0,0,0
+66,Au Naturale,True,False,False,False,1,0,0,0,0
+67,Aubrey Organics,False,False,False,False,0,0,0,0,0
+68,Aunt Fannie’s,False,False,False,False,0,0,0,0,0
+69,Aura Cacia,False,False,False,False,0,0,0,0,0
+70,Auromere,False,False,False,False,0,0,0,0,0
+71,Authentic Beauty Concept,True,False,False,False,0,0,0,0,0
+72,Avalon Organics,False,False,False,False,0,0,0,0,0
+73,Aveda,True,False,True,False,0,1,0,0,1
+74,Awake Beauty,False,False,True,False,1,0,0,0,0
+75,Axiology,True,False,False,False,1,0,0,0,1
+76,Aya Natural,True,False,False,False,0,0,0,0,0
+77,Azelique Cosmetics,True,False,False,False,0,0,0,0,0
+78,B. by Superdrug,False,False,False,False,0,0,0,0,0
+79,BH Cosmetics,False,False,False,False,1,0,0,0,0
+80,BYBI Beauty,True,False,False,False,0,0,0,0,0
+81,Babo Botanicals,False,False,False,False,1,0,0,0,0
+82,Babyliss,False,False,False,False,0,0,0,0,0
+83,Bach Original Flower Remedies,False,False,False,False,0,0,0,0,0
+84,Baiser Beauty,False,False,False,False,0,0,0,0,0
+85,Balanced Guru,False,False,False,False,0,0,0,0,0
+86,Balm Balm,False,False,False,False,0,0,0,0,0
+87,"Balm, The",False,False,False,False,0,1,0,0,0
+88,Bare Bones Body Care,True,False,False,False,0,0,0,0,0
+89,Bare Republic,False,False,False,False,0,0,0,0,0
+90,Barefaced Beauty,False,False,False,False,0,0,0,0,0
+91,Barely Cosmetics,True,False,False,False,0,0,0,0,0
+92,Barry M,False,False,False,False,0,0,0,0,0
+93,Bask & Co,True,False,False,False,0,0,0,0,0
+94,Bask Suncare,True,False,False,False,0,0,0,0,0
+95,"Bath, Body, Candle Moments",False,False,False,False,0,0,0,0,0
+96,Bdellium Tools,False,False,False,False,0,0,1,0,0
+97,Beast,False,False,False,False,1,0,0,0,0
+98,Beautisol,True,False,False,False,0,0,0,0,0
+99,Beauty Bakerie,False,False,False,True,1,0,0,0,0
+100,Beauty Bay,False,False,False,False,0,0,0,0,0
+101,Beauty By Stony,False,False,False,True,0,0,0,0,0
+102,"Beauty Chef, The",False,False,False,False,0,1,1,1,0
+103,Beauty Without Cruelty,True,False,False,False,0,0,0,0,0
+104,Beauty by Earth,False,False,False,False,0,0,0,0,0
+105,BeautyStat Cosmetics,False,False,False,True,0,0,0,0,0
+106,Beautycounter,False,False,False,False,0,0,0,0,0
+107,Bedrock & Bloom,True,False,False,False,0,0,0,0,0
+108,Bella Mari,True,False,False,False,0,0,0,0,0
+109,BellaPierre,False,False,False,False,0,0,0,0,0
+110,Ben Nye Makeup,False,False,False,False,0,0,0,0,0
+111,Besamé Cosmetics,False,False,False,False,0,0,0,0,0
+112,Biconi,False,False,False,False,0,0,0,0,0
+113,Bili Beauty,True,False,False,False,0,0,0,0,0
+114,Billie,True,False,False,False,0,0,0,0,0
+115,Bio Follicle,True,False,False,False,0,0,0,0,0
+116,Bio Ionic,False,False,False,False,1,1,0,1,1
+117,BioClarity,True,False,False,False,1,0,0,0,0
+118,Biokleen,True,False,False,False,0,0,0,0,0
+119,Biom,False,False,False,False,0,0,0,0,0
+120,Bite Beauty,True,False,False,False,0,1,0,0,0
+121,Black Dahlia Lacquer,True,False,False,False,0,0,0,0,0
+122,Black Moon Cosmetics,True,False,False,False,0,0,0,0,0
+123,Black Phoenix Alchemy Lab,False,False,False,False,0,0,0,0,0
+124,Blackbird Cosmetics,True,False,False,False,0,0,0,0,0
+125,Blinc,False,False,False,False,0,1,1,0,0
+126,Bliss,False,False,False,False,1,0,0,0,0
+127,Blissoma,False,False,False,False,0,0,0,0,0
+128,Blu Ink Nail Lacquer,True,False,False,False,0,0,0,0,0
+129,Blue Beautifly,True,False,False,False,0,0,0,0,0
+130,Blue Labelle,True,False,False,False,0,0,0,0,0
+131,"Body Shop, The",False,False,False,False,1,0,0,0,0
+132,"Bold Brand, The",False,False,False,True,0,0,0,0,0
+133,Bon Ami,False,False,False,False,0,0,0,0,0
+134,Bonne Belle,False,False,False,False,0,0,0,0,0
+135,Borika Body,True,False,False,False,0,0,0,0,0
+136,Boscia,False,False,False,False,1,1,0,0,0
+137,Bossy Cosmetics (Bossy Lipstick),False,False,False,True,0,0,0,0,0
+138,Botanic Organic,False,False,False,False,0,0,0,0,0
+139,Box Naturals,True,False,False,False,0,0,0,0,0
+140,Brianna’s Handmade Soap,True,False,False,False,0,0,0,0,0
+141,Bright Planet,False,False,False,False,0,0,0,0,0
+142,Briogeo,False,False,True,False,1,0,0,1,0
+143,Bronze Buffer,True,False,False,False,0,0,0,0,0
+144,Buddha Beauty,True,False,False,False,0,0,0,0,0
+145,Bulldog Skincare for Men,True,False,False,False,0,0,0,0,0
+146,Burke & Hare Co,True,False,False,False,0,0,0,0,0
+147,Burst Oral Care,True,False,False,False,0,0,0,0,0
+148,Burt’s Bees,False,False,True,False,1,1,0,0,0
+149,Buxom,False,False,True,False,1,1,0,0,1
+150,Bye Bye Parabens,True,False,False,False,0,0,0,0,0
+151,CHI,False,False,False,False,0,0,0,0,0
+152,CLOVE + HALLOW,True,False,False,False,0,0,0,0,0
+153,COOLA Suncare,False,True,False,False,0,0,0,1,0
+154,COOLA,False,True,False,False,1,1,0,0,1
+155,CORE Cosmetics,False,False,False,False,0,0,0,0,0
+156,CORPUS,True,False,False,False,0,0,0,0,0
+157,CORREXIKO,False,False,False,False,0,0,0,0,0
+158,COVER FX,True,False,False,False,1,1,1,1,0
+159,COVERGIRL,False,False,True,False,1,0,0,0,0
+160,CRUX Supply Co,False,False,False,False,0,0,0,0,0
+161,CUROXEN,False,False,False,False,0,0,0,0,0
+162,Cadia,False,False,False,False,0,0,0,0,0
+163,Cailyn Cosmetics,False,False,False,False,0,0,0,0,0
+164,Caitlin’s Super Natural,True,False,False,False,0,0,0,0,0
+165,Cake Beauty,True,False,False,False,1,0,0,0,0
+166,Caldrea,False,False,True,False,0,0,0,0,0
+167,Caley Cosmetics,False,False,False,False,0,0,0,0,0
+168,Caroline’s Dream,False,False,False,False,0,0,0,0,0
+169,Cate McNabb,False,False,False,False,0,0,0,0,0
+170,Cedar + Stone,True,False,False,False,0,0,0,0,0
+171,Ceremonia,True,False,False,False,0,0,0,0,0
+172,Certain Dri,True,False,True,False,0,0,0,0,0
+173,Charlotte Tilbury,False,True,False,False,0,1,0,1,1
+174,"Cheeky Panda, The",True,False,False,False,0,0,0,0,0
+175,Chella,False,False,False,False,0,0,0,0,0
+176,"Chemistry Brand, The",False,False,True,False,0,0,0,0,0
+177,Christy Organics,True,False,False,False,0,0,0,0,0
+178,Ciaté London,False,False,False,False,0,1,0,0,0
+179,Clarria Cosmetics,False,False,False,False,0,0,0,0,0
+180,Clutch Nails,True,False,False,False,0,0,0,0,0
+181,Coco & Eve,False,False,False,False,0,0,0,0,0
+182,Cocokind,False,False,False,False,1,0,0,0,0
+183,Cocoon Apothecary,True,False,False,False,0,0,0,0,0
+184,Cocovit,False,False,False,False,0,0,0,0,0
+185,Color Club,True,False,False,False,0,0,0,0,0
+186,ColorProof,True,False,False,False,0,0,0,0,0
+187,Colorevolution,False,False,False,False,0,0,0,0,0
+188,ColourPop,False,False,False,False,1,0,0,0,0
+189,Coloured Raine,False,True,False,False,0,0,1,0,0
+190,Coloured Raine Cosmetics,False,False,False,True,0,0,0,0,0
+191,Conair,False,False,False,False,1,0,0,0,0
+192,Concrete Minerals,True,False,False,False,0,0,0,0,0
+193,Conscious Skincare,False,False,False,False,0,0,0,0,0
+194,Cora,False,False,False,False,0,0,0,0,0
+195,Counter Culture Clean,True,False,False,False,0,0,0,0,0
+196,Cowshed,False,False,False,False,0,0,0,0,0
+197,Crazy Rumors,True,False,False,False,0,0,0,0,0
+198,Creature Cosmetics,True,False,False,False,0,0,0,0,0
+199,Crispy Brows,False,False,False,False,0,0,0,0,0
+200,Crystal Body Deodorant,True,False,False,False,0,0,0,0,0
+201,DEMES/Demes Natural Products,True,False,False,False,0,0,0,0,0
+202,DN-UNIK,True,False,False,False,0,0,0,0,0
+203,DSMD Shop,False,False,False,True,0,0,0,0,0
+204,DUO,False,False,False,False,0,1,0,0,0
+205,Dahliana Naturals,True,False,False,False,0,0,0,0,0
+206,Daisy Blue Naturals,False,False,False,False,0,0,0,0,0
+207,DeVita,True,False,False,False,0,0,0,0,0
+208,Dear Dahlia,True,False,False,False,0,0,0,0,0
+209,Dear Self,False,False,False,False,0,0,0,0,0
+210,Deborah Lippmann,False,False,False,False,0,1,0,0,1
+211,Deciem,False,False,False,False,0,0,0,0,0
+212,Deco Miami,True,False,False,False,0,0,0,0,0
+213,DefineMe Fragrance,True,False,False,False,1,0,0,0,0
+214,Dehiya,True,False,False,True,0,0,0,0,0
+215,Delectable,True,False,False,False,0,0,0,0,0
+216,Delight Beauty,True,False,False,False,0,0,0,0,0
+217,DermOrganic,True,False,False,False,0,0,0,0,0
+218,Derma E,True,False,False,False,1,0,0,0,0
+219,Dermablend,False,False,True,False,1,0,0,0,0
+220,Dermablend Professional,False,False,True,False,0,0,0,0,0
+221,Dermalogica,False,False,True,False,1,1,0,0,1
+222,Desert Essence,False,False,False,False,0,0,0,0,0
+223,DevaCurl,False,False,True,False,1,1,0,0,1
+224,Dickinson Brands,False,False,False,False,0,0,0,0,0
+225,Dimension Nails,True,False,False,True,0,0,0,0,0
+226,Dirt Don’t Hurt Me,True,False,False,True,0,0,0,0,0
+227,Doctor Rogers RESTORE,True,False,False,False,0,0,0,0,0
+228,Dose of Colors,False,False,False,False,0,0,1,0,0
+229,Dr. Bronner’s,False,False,False,False,0,0,0,0,0
+230,Dr. Hauschka,False,False,False,False,0,0,0,0,0
+231,Dr. Roebuck’s,False,False,False,False,1,1,0,1,0
+232,Drainbo,False,False,False,False,0,0,0,0,0
+233,Drunk Elephant,False,False,True,False,0,1,0,1,0
+234,DryBar,False,False,False,False,1,1,0,0,1
+235,DuWop Cosmetics,False,False,False,False,0,0,0,0,0
+236,ECO Minerals,True,False,False,False,0,0,0,0,0
+237,ELF (Eyes Lips Face/E.L.F.),True,False,False,False,1,0,0,0,0
+238,ENJOY Professional Hair Care,False,False,False,False,0,0,0,0,0
+239,EO Products,False,False,False,False,0,0,0,0,0
+240,EOS,False,False,False,False,1,0,0,0,0
+241,EOS (Evolution of Smooth),False,False,False,False,0,0,0,0,0
+242,EVOHE,True,False,False,False,0,0,0,0,0
+243,EVOLVh,False,False,False,False,0,0,0,0,0
+244,Earth Friendly Products (ECOS),False,False,False,False,0,0,0,0,0
+245,Earth Harbor Naturals,False,False,False,False,0,0,0,0,0
+246,Earth Science Naturals,False,False,False,False,0,0,0,0,0
+247,Earth Tu Face,False,False,False,False,0,0,0,0,0
+248,Earthwise Beauty,False,False,False,False,0,0,0,0,0
+249,Ecco Bella,False,False,False,False,0,0,0,0,0
+250,Eco Lips,False,False,False,False,0,0,0,0,0
+251,Eco Tan,False,False,False,False,0,0,0,0,0
+252,Eco Tools,True,False,False,False,1,0,0,0,0
+253,Eco-Dent,False,False,False,False,0,0,0,0,0
+254,Elate Clean Cosmetics,True,False,False,False,0,0,0,0,0
+255,Elixery,True,False,False,False,0,0,0,0,0
+256,Elizabeth Mott,False,False,False,False,0,0,0,0,0
+257,Ella + Mila,False,False,False,False,1,0,0,0,0
+258,Ellis Faas,False,False,False,False,0,0,0,0,0
+259,Ellovi,True,False,False,False,0,0,0,0,0
+260,Elysian Nail Lacquer,True,False,False,False,0,0,0,0,0
+261,EmJ Makeup,True,False,False,False,0,0,0,0,0
+262,Emani,True,False,False,False,0,0,0,0,0
+263,Epic Blend,False,False,False,False,0,0,0,0,0
+264,Epice International,True,False,False,False,0,0,0,0,0
+265,Espinache,True,False,False,False,0,0,0,0,0
+266,Essence,False,False,False,False,0,0,0,0,0
+267,Eu’Genia,False,False,False,True,0,0,0,0,0
+268,Eva NYC,False,False,False,False,1,0,0,0,0
+269,Every Man Jack,False,False,False,False,1,0,0,0,0
+270,Everyday Minerals,True,False,False,False,0,0,0,0,0
+271,Evologie,False,False,False,False,0,0,0,0,0
+272,Evolve Organic Beauty,True,False,False,False,0,0,0,0,0
+273,Eye of Horus,False,False,False,False,0,0,1,0,0
+274,Eye of Horus Cosmetics,False,False,False,False,0,0,0,0,0
+275,Eylure,False,False,False,False,1,0,0,0,0
+276,FAR Botanicals,True,False,False,False,0,0,0,0,0
+277,FARSALI,True,False,False,False,0,1,0,1,0
+278,Face Atelier,False,False,False,False,0,0,0,0,0
+279,Face Halo,True,False,False,False,1,0,0,0,0
+280,Fairy Girl,True,False,False,False,0,0,0,0,0
+281,Fairypants,False,False,False,False,0,0,0,0,0
+282,"Fanciful Fox, The- 100% vegan",True,False,False,False,0,0,0,0,0
+283,Farmacy,False,False,True,False,0,1,0,1,0
+284,Feral Cosmetics,True,False,False,False,0,0,0,0,0
+285,Festival Face,False,False,False,False,0,0,1,0,0
+286,FiOR Minerals,True,False,False,False,0,0,0,0,0
+287,Flawless Professional Vegan Beauty,True,False,False,False,0,0,0,0,0
+288,Flesh Beauty,False,False,True,False,0,0,0,0,0
+289,Flo + Theo,True,False,False,False,0,0,0,0,0
+290,Floral Street,True,False,False,False,0,1,0,0,0
+291,Flower Beauty,False,False,False,False,1,0,0,0,0
+292,For The Biome,False,False,False,False,0,0,0,0,0
+293,Forager Botanicals,True,False,False,False,0,0,0,0,0
+294,Forest Creek,False,False,False,False,0,0,0,0,0
+295,Formulary 55,False,False,False,False,0,0,0,0,0
+296,Four Sigmatic,False,False,False,False,1,0,0,1,0
+297,Fourth Ray Beauty,True,False,False,False,1,0,0,0,0
+298,Frank Body,False,True,False,False,1,1,1,1,1
+299,Franklin & Whitman,True,False,False,False,0,0,0,0,0
+300,Freck Beauty,True,False,False,False,0,1,0,0,0
+301,Fusion of Color Cosmetics,False,False,False,False,0,0,0,0,0
+302,Fyrinnae,False,False,False,False,0,0,0,0,0
+303,GLOSS Moderne,True,False,False,False,0,0,0,0,0
+304,GOSH Cosmetics,False,False,False,False,0,0,0,0,0
+305,GXVE Beauty,True,False,False,False,0,1,0,0,0
+306,GYV Mesoamerican Beauty,True,False,False,False,0,0,0,0,0
+307,Gabriel Cosmetics,False,False,False,False,0,0,0,0,0
+308,Gaia Secrets,False,False,False,False,0,0,0,0,0
+309,Garden of Wisdom,False,False,False,False,0,0,0,0,0
+310,Garnier,False,False,True,False,1,0,0,0,0
+311,Geek Chic Cosmetics,True,False,False,False,0,0,0,0,0
+312,"Gel Bottle, The -100% vegan",True,False,False,False,0,0,0,0,0
+313,Gerard Cosmetics,False,False,False,False,0,0,1,0,0
+314,Giovanni,False,False,False,False,0,0,0,0,0
+315,GladRags,False,False,False,False,0,0,0,0,0
+316,Glamlite,False,False,False,True,0,0,0,0,0
+317,Glow Recipe,False,False,False,False,0,0,0,0,0
+318,Glowoasis,True,False,False,False,0,0,0,0,0
+319,"Gnarly Whale, The",False,False,False,False,0,0,0,0,0
+320,Goby,False,False,False,False,0,0,0,0,0
+321,Goddess Garden Organics,True,False,False,False,0,0,0,0,0
+322,Goli Nutrition,False,False,False,False,0,0,0,0,0
+323,Good Chemistry,True,False,False,False,0,0,0,0,0
+324,Good Dye Young,True,False,False,False,0,1,0,0,0
+325,Good Molecules,False,False,False,False,0,0,0,0,0
+326,Grace & Stella,True,False,False,False,0,0,0,0,0
+327,Green & Gorgeous Organics,False,False,False,False,0,0,0,0,0
+328,Green Beaver,False,False,False,False,0,0,0,0,0
+329,Green People,False,False,False,False,0,0,0,0,0
+330,Green Tidings,True,False,False,False,0,0,0,0,0
+331,Green Virgin Products,False,False,False,False,0,0,0,0,0
+332,Gressa,False,False,False,False,0,0,0,0,0
+333,Grove Collaborative,False,False,False,False,0,0,0,0,0
+334,Gwen’s Blends,False,False,False,False,0,0,0,0,0
+335,HAN Skincare Cosmetics,False,False,False,False,1,0,0,0,0
+336,HAN Skincare Cosmetics,False,False,False,False,0,0,0,0,0
+337,Habit Cosmetics,True,False,False,False,0,0,0,0,0
+338,Hain Celestial,False,False,False,False,0,0,0,0,0
+339,Hand in Hand Soap,True,False,False,False,0,0,0,0,0
+340,Handmade Heroes,True,False,False,False,0,0,0,0,0
+341,Harvey Prince,True,False,False,False,0,0,0,0,0
+342,Hask,False,False,False,False,1,0,0,0,0
+343,Healanah,True,False,False,False,0,0,0,0,0
+344,Hello Products,True,False,True,False,1,0,0,0,0
+345,Hempz,False,False,False,False,1,0,0,0,0
+346,Herbal Choice Mari,True,False,False,False,0,0,0,0,0
+347,Herbal-Medi-Care,True,False,False,False,0,0,0,0,0
+348,Herban Cowboy,False,False,False,False,0,0,0,0,0
+349,Herbivore,True,False,False,False,0,1,0,0,0
+350,Heritage Store,False,False,False,False,1,0,0,0,0
+351,Hero Cosmetics (also known as Mighty Patch),False,False,False,False,0,0,0,0,0
+352,HiSmile,True,False,False,False,0,0,0,0,0
+353,High Endurance Cosmetics,False,False,False,False,0,0,0,0,0
+354,Homemade Betty,True,False,False,False,0,0,0,0,0
+355,"Honey Pot Co, The",False,False,False,True,0,0,0,0,0
+356,Honeybee Gardens,False,False,False,False,0,0,0,0,0
+357,Hot Tresses,True,False,False,False,0,0,0,0,0
+358,Hourglass Cosmetics,False,True,True,False,1,1,0,1,1
+359,Hourglass,False,True,True,False,0,0,0,0,0
+360,House of Lashes,False,False,False,False,1,0,1,0,0
+361,Hugo Naturals,True,False,False,False,0,0,0,0,0
+362,Hum Nutrition,False,False,False,False,0,1,0,0,1
+363,Hurraw!,True,False,False,False,0,0,0,0,0
+364,Hylamide,False,False,True,False,0,0,0,0,0
+365,Hynt Beauty,False,False,False,False,1,0,0,0,0
+366,I Heart Revolution,False,False,False,False,1,0,0,0,0
+367,IGK,True,False,False,False,0,1,0,0,0
+368,IGK -100% vegan,True,False,False,False,1,0,0,0,0
+369,IME Natural Perfume,True,False,False,False,0,0,0,0,0
+370,INIKA,True,False,False,False,0,0,0,0,0
+371,If You Care,False,False,False,False,0,0,0,0,0
+372,Illume,False,False,False,False,0,0,0,0,0
+373,Illuminare Cosmetics,True,False,False,False,0,0,0,0,0
+374,Imayla Beauty,False,False,False,False,0,0,0,0,0
+375,Indie Blends,True,False,False,False,0,0,0,0,0
+376,Indie Lee,False,False,False,False,1,1,0,1,1
+377,Indigo Wild,False,False,False,False,0,0,0,0,0
+378,"Inkey List, The",False,False,False,False,0,1,0,0,0
+379,Inkling Scents,False,False,False,False,0,0,0,0,0
+380,Innate Organic Body,True,False,False,False,0,0,0,0,0
+381,Inoar,False,False,False,False,0,0,0,0,0
+382,Insert Name Here,False,False,False,False,0,0,0,0,0
+383,Intelligent Nutrients,False,False,False,False,0,0,0,0,0
+384,IsaDora,False,False,False,False,0,0,0,0,0
+385,Isle of Paradise,True,False,False,False,0,1,0,0,0
+386,It’s a 10,False,False,False,False,1,0,0,0,0
+387,J.R. Watkins,False,False,False,False,1,0,0,0,0
+388,Jacq’s,True,False,False,False,0,0,0,0,0
+389,Jane Carter Solution,True,False,False,True,0,0,0,0,0
+390,Jane Iredale,False,False,False,False,1,0,0,0,1
+391,Jason Naturals,False,False,False,False,0,0,0,0,0
+392,JaxKelly,False,False,False,False,0,0,0,0,0
+393,Jecca Black/Jecca Makeup,True,False,False,False,0,0,0,0,0
+394,Jeffree Star Cosmetics,True,False,False,False,0,0,1,0,0
+395,Jillian Wright Skincare,False,False,False,False,0,0,0,0,0
+396,Jing Ai,False,False,False,False,0,0,0,0,0
+397,Jivi,True,False,False,False,0,0,0,0,0
+398,Johnny Concert,True,False,False,False,0,0,0,0,0
+399,Jordana,False,False,False,False,0,0,1,0,0
+400,Joshik Polish,True,False,False,False,0,0,0,0,0
+401,Josie Maran,False,False,False,False,1,1,0,0,0
+402,Josie Maran Cosmetics,False,False,False,False,0,0,0,0,0
+403,Jouer,False,True,False,False,0,0,0,0,1
+404,Jouer Cosmetics,False,True,False,False,0,1,1,1,0
+405,Joëlle Ciocco Paris,False,False,False,False,0,0,0,0,0
+406,Juice Beauty,True,False,False,False,1,0,0,0,0
+407,Jusu Body,False,False,False,False,0,0,0,0,0
+408,KHUS+KHUS modern herbal fusion,False,False,False,False,0,0,0,0,0
+409,KKW Beauty,False,False,True,False,1,0,0,0,0
+410,KKW Fragrance,False,False,True,False,1,0,0,0,0
+411,KORA Organics,False,False,False,False,0,1,0,0,0
+412,KORRES,False,False,False,False,1,1,0,0,0
+413,KPS Essentials,False,False,False,False,0,0,0,0,0
+414,KVD Beauty (formerly KVD Vegan Beauty and Kat Von D Beauty),True,False,False,False,1,1,0,0,0
+415,Leahlani Skincare,False,False,False,False,0,0,0,0,0
+416,KVoss,True,False,False,False,0,0,0,0,0
+417,KYPRIS,False,False,False,False,0,0,0,0,1
+418,Kaeng Raeng,True,False,False,False,0,0,0,0,0
+419,Kahina Giving Beauty,False,False,False,False,0,0,0,0,0
+420,Kaia Naturals,False,False,False,False,0,0,0,0,0
+421,Kalon Kosmetics,False,False,False,True,0,0,0,0,0
+422,Kani Botanicals,True,False,False,False,0,0,0,0,0
+423,Kaplan MD Skincare,False,False,False,False,0,0,0,0,0
+424,Kapuluan Coconut,False,False,False,False,0,0,0,0,0
+425,Kate Ryan Skincare,False,False,False,False,0,0,0,0,0
+426,Katherine Cosmetics,False,False,False,False,0,0,0,0,0
+427,Kavella Haircare,True,False,False,False,0,0,0,0,0
+428,Kelley Quan,True,False,False,False,0,0,0,0,0
+429,Kester Black,True,False,False,False,0,0,0,0,0
+430,Kett Cosmetics,False,False,False,False,0,0,0,0,0
+431,Key West Aloe,True,False,False,False,0,0,0,0,0
+432,Keys Soulcare,False,False,False,False,1,0,0,0,0
+433,Kimberly Parry Organics,False,False,False,False,0,0,0,0,0
+434,Kinship,False,False,False,False,1,0,0,0,0
+435,Kirei Cosmetics,True,False,False,False,0,0,0,0,0
+436,Kiss My Face,False,False,False,False,0,0,0,0,0
+437,Kitaka of London,False,False,False,True,0,0,0,0,0
+438,Kitsch,True,False,False,False,1,1,1,0,0
+439,Klarity Kosmetics,False,False,False,True,0,0,0,0,0
+440,Klo Organic Beauty,True,False,False,False,0,0,0,0,0
+441,Kneipp,False,False,False,False,0,0,0,0,0
+442,Ko & Humble,True,False,False,False,0,0,0,0,0
+443,Koh Gen Do,False,False,False,False,0,1,0,0,1
+444,Kopari,False,True,False,False,1,1,0,1,1
+445,Kopari Beauty,False,False,False,False,0,0,0,0,0
+446,Kosas,False,False,False,False,0,1,0,1,1
+447,Kosas Cosmetics,False,False,False,False,0,0,0,0,0
+448,Kosia,True,False,False,False,0,0,0,0,0
+449,Krave Beauty,True,False,False,False,0,0,0,0,0
+450,Kristin Ess,False,False,False,False,0,0,0,0,0
+451,Kylie Cosmetics,False,False,True,False,1,0,0,0,0
+452,Kylie Skin,True,False,True,False,1,0,0,0,1
+453,LAIA Skincare,True,False,False,False,0,0,0,0,0
+454,LAVANILA,False,False,False,False,1,1,0,0,0
+455,LH Cosmetics (Linda Hallberg Cosmetics),False,False,False,False,0,0,0,0,0
+456,LVX,True,False,False,False,0,0,0,0,0
+457,LXMI,True,False,False,False,0,1,0,0,0
+458,LYS Beauty,True,False,False,True,0,1,0,0,0
+459,La Couleur Couture (LACC),True,False,False,False,0,0,0,0,0
+460,La Fresh Eco Beauty,False,False,False,False,0,0,0,0,0
+461,Lalila Beauty,False,False,False,False,0,0,0,0,0
+462,Lamain Beauty,False,False,False,True,0,0,0,0,0
+463,Lamik Beauty,False,False,False,True,0,0,0,0,0
+464,Lather,False,False,False,False,0,0,0,0,0
+465,Laurel Whole Plant Organics,False,False,False,False,0,0,0,0,0
+466,Lauren B. Beauty,True,False,False,False,0,0,0,0,0
+467,Lauren Brooke Cosmetiques,False,False,False,False,0,0,0,0,0
+468,Laurmé Skin Care,False,False,False,False,0,0,0,0,0
+469,Lawless,False,False,False,False,0,1,0,0,0
+470,Leaf People,False,False,False,False,0,0,0,0,0
+471,Legendary Apothecary,True,False,False,False,0,0,0,0,0
+472,Leilano Beauty,False,False,False,True,0,0,0,0,0
+473,Lethal Cosmetics,True,False,False,False,0,0,0,0,0
+474,Let’s Put a Bird On It,True,False,False,False,0,0,0,0,0
+475,Lewin & Reilly,False,False,False,False,0,0,0,0,0
+476,Light Mountain Natural Hair Color,True,False,False,False,0,0,0,0,0
+477,Lily Lolo,False,False,False,False,0,0,0,0,0
+478,Lime Crime,True,False,False,False,1,0,0,1,1
+479,Lina Hanson,True,False,False,False,0,0,0,0,0
+480,Linda Hallberg Cosmetics,False,False,False,False,0,0,1,0,0
+481,Lip Glosserie,True,False,False,False,0,0,0,0,0
+482,Lippy Girl,False,False,False,False,0,0,0,0,0
+483,Little Moon Essentials,False,False,False,False,0,0,0,0,0
+484,Live Tinted,True,False,False,False,0,0,0,0,0
+485,Loa Skin Care,True,False,False,False,0,0,0,0,0
+486,Logona,False,False,True,False,0,0,0,0,0
+487,LolaVie,True,False,False,False,0,0,0,0,0
+488,Loola Cosmetics,False,False,False,True,0,0,0,0,0
+489,Lord & Berry,False,False,False,False,0,0,0,0,0
+490,Lotus Wei,False,False,False,False,0,0,0,0,0
+491,Lovegrove Essentials,True,False,False,False,0,0,0,0,0
+492,Lovesong Beauty,True,False,False,False,0,0,0,0,0
+493,Lovetica Beauty,False,False,False,False,0,0,0,0,0
+494,Loving Tan,True,False,False,False,1,0,0,0,0
+495,Lulu Blossom,False,False,False,False,0,0,0,0,0
+496,Luna Nectar,False,False,False,False,0,0,0,0,0
+497,Luna Oil Organics,True,False,False,False,0,0,0,0,0
+498,LunatiCK Cosmetic Labs,True,False,False,False,0,0,0,0,0
+499,Lunette,True,False,False,False,0,0,0,0,0
+500,Luscious Cosmetics,True,False,False,False,0,0,0,0,0
+501,Lush,False,False,False,False,0,0,0,0,0
+502,Lust Cosmetics,True,False,False,False,0,0,0,0,0
+503,"Luv Scrub, The",False,False,False,True,0,0,0,0,0
+504,Luxie Beauty,True,False,False,False,0,0,1,0,0
+505,MAHALO Skin Care,False,False,False,False,0,0,0,0,0
+506,MAYA Cosmetics,True,False,False,False,0,0,0,0,0
+507,MERIT Beauty,True,False,False,False,0,0,0,0,0
+508,MOGI MOUSSE,True,False,False,False,0,0,0,0,0
+509,MOMMA (Ministry of Mineral Makeup Australia),True,False,False,False,0,0,0,0,0
+510,MOTD Cosmetics,True,False,False,False,0,0,0,0,0
+511,MOX? (Moxe Aromatherapy),False,False,False,False,0,0,0,0,0
+512,MUN,True,False,False,False,0,0,0,0,0
+513,MV Organic Skincare,False,False,False,False,0,0,0,0,0
+514,Mabrook & Co,False,False,False,False,0,0,0,0,0
+515,Mad Hippie,True,False,False,False,1,0,0,0,0
+516,Madam Glam,False,False,False,False,0,0,0,0,0
+517,Made From Earth,False,False,False,False,0,0,0,0,0
+518,Made Simple Skincare,True,False,False,False,0,0,0,0,0
+519,Mai Couture,False,False,False,False,0,0,0,0,0
+520,Maison Meunier,True,False,False,False,0,0,0,0,0
+521,Makeup Addiction Cosmetics,False,False,False,True,0,0,0,0,0
+522,Makeup Eraser,True,False,False,False,1,1,0,0,1
+523,Makeup Geek,False,False,False,False,0,0,1,0,0
+524,Makeup Revolution,False,False,False,False,1,0,0,0,0
+525,Makeup by Mario,False,False,False,False,0,0,0,0,0
+526,Malaya Organics,False,False,False,False,0,0,0,0,0
+527,Manic Panic,True,False,False,False,1,0,0,0,0
+528,Maple Holistics,False,False,False,False,0,0,0,0,0
+529,Marc Jacobs Beauty,False,False,False,False,0,1,0,0,0
+530,Marcelle,False,False,False,False,0,0,0,0,0
+531,Maria Nila,False,False,False,False,0,0,0,0,0
+532,Marie Hunter Beauty,False,False,False,True,0,0,0,0,0
+533,Marie Natie,False,False,False,False,0,0,0,0,0
+534,Marie Veronique,False,False,False,False,0,0,0,0,0
+535,Mario Badescu,False,False,False,False,1,0,1,0,1
+536,Marks & Spencer,False,False,False,False,0,0,0,0,0
+537,Marnie’s Body Care,False,False,False,False,0,0,0,0,0
+538,Maréna Beauté,False,False,False,True,0,0,0,0,0
+539,Maxim,False,False,False,False,0,0,0,0,0
+540,May Lindstrom Skin,False,False,False,False,0,0,0,0,0
+541,Me & You,True,False,False,False,0,0,0,0,0
+542,Meant,False,False,False,False,0,0,0,0,0
+543,Mei Yin Naturopathics,True,False,False,False,0,0,0,0,0
+544,Melanie Mills Hollywood,False,False,False,False,0,0,0,0,0
+545,Mellow Cosmetics,True,False,False,False,0,0,0,0,0
+546,Melt Cosmetics,False,False,False,False,0,0,1,0,0
+547,Mented Cosmetics,False,False,False,False,1,0,0,0,0
+548,Mented Cosmetics,True,False,False,True,0,0,0,0,0
+549,Meow Cosmetics,False,False,False,False,0,0,0,0,0
+550,Meow Meow Tweet,True,False,False,False,0,0,0,0,0
+551,Metamour Skin Care,True,False,False,False,0,0,0,0,0
+552,Method,True,False,True,False,0,0,0,0,0
+553,Mi-Me,False,False,False,False,0,0,0,0,0
+554,Michael Lorin Reed,True,False,False,False,0,0,0,0,0
+555,Michael Todd,False,False,False,False,1,0,0,0,0
+556,Milani,False,True,False,False,1,0,1,0,0
+557,Milk Makeup,True,False,False,False,0,1,0,1,0
+558,Mineral Fusion,False,False,False,False,0,0,0,0,0
+559,Mineral Hygienics,False,False,False,False,0,0,0,0,0
+560,Mirenesse,False,False,False,False,0,0,0,0,0
+561,Mocha Whip,True,False,False,True,0,0,0,0,0
+562,ModelCo,False,False,False,False,0,0,0,0,0
+563,Modern Minerals,True,False,False,False,0,0,0,0,0
+564,Molton Brown,False,False,False,False,0,0,0,0,0
+565,Moon Juice,False,False,False,False,0,1,0,1,1
+566,Moon Luv,True,False,False,False,0,0,0,0,0
+567,Moroccanoil,False,False,False,False,0,0,0,0,1
+568,Mountain Rose Herbs,False,False,False,False,0,0,0,0,0
+569,Mrs. Meyer’s Clean Day,False,False,True,False,0,0,0,0,0
+570,Mullein & Sparrow,False,False,False,False,0,0,0,0,0
+571,Murad,False,False,True,False,1,1,0,0,1
+572,My Daughter Fragrances,False,False,False,False,0,0,0,0,0
+573,My Konjac Sponge,True,False,False,False,0,0,0,0,0
+574,My Pretty Zombie,False,False,False,False,0,0,0,0,0
+575,MyChelle Dermaceuticals,False,False,False,False,1,0,0,0,0
+576,NABLA,False,False,False,False,1,0,1,0,0
+577,NCLA,True,False,False,False,0,0,0,1,1
+578,NCLA Beauty,True,False,False,False,0,0,0,0,0
+579,NIOD,False,False,True,False,0,0,0,0,0
+580,NIU BODY,True,False,False,False,0,0,0,0,0
+581,NOTE Cosmetics,False,False,False,False,0,0,0,0,0
+582,NVEY Eco,False,False,False,False,0,0,0,0,0
+583,NYL,True,False,False,False,0,0,0,0,0
+584,NYX,False,True,True,False,1,0,0,1,0
+585,Nad’s Natural,False,False,False,False,1,0,0,0,0
+586,Nanshy,True,False,False,False,0,0,1,0,0
+587,Napoleon Perdis,False,False,False,False,0,0,0,0,0
+588,Nash + Pino,True,False,False,True,0,0,0,0,0
+589,Natio,False,False,False,False,0,0,0,0,0
+590,NatraCare,True,False,False,False,0,0,0,0,0
+591,Natura,False,False,False,False,0,0,0,0,0
+592,Natural Glow Sunless Tanning,False,False,False,False,0,0,0,0,0
+593,Natural Scentzations,True,False,False,False,0,0,0,0,0
+594,Nature’s Gate,True,False,False,False,0,0,0,0,0
+595,Naturopathica,False,False,False,False,0,0,0,0,0
+596,Neal’s Yard Remedies,False,False,False,False,0,0,0,0,0
+597,Necromancy Cosmetica,True,False,False,False,0,0,0,0,0
+598,Nelson Naturals,True,False,False,False,0,0,0,0,0
+599,Nick Chavez Beverly Hills,False,False,False,False,0,0,0,0,0
+600,Nicole Granato,False,False,False,False,0,0,0,0,0
+601,No Miss,False,False,False,False,0,0,0,0,0
+602,Nomad Cosmetics,False,False,False,False,0,0,0,0,0
+603,Nonie of Beverly Hills,True,False,False,False,0,0,0,0,0
+604,Nordic Naturals,False,False,False,False,0,0,0,0,0
+605,North Coast Organics,True,False,False,False,0,0,0,0,0
+606,Not A Sponge,True,False,False,False,0,0,0,0,0
+607,Noughty,True,False,False,False,0,0,0,0,0
+608,Nourish Organic,False,False,False,False,0,0,0,0,0
+609,Now Foods/Now Products,False,False,False,False,0,0,0,0,0
+610,NuMe,False,False,False,False,0,0,1,0,0
+611,Nude & Noir Cosmetics,True,False,False,False,0,0,0,0,0
+612,Nue Makeup,False,False,False,True,0,0,0,0,0
+613,Nui,False,False,False,False,0,0,0,0,0
+614,Nurture My Body,False,False,False,False,0,0,0,0,0
+615,Nzuri Organics,False,False,False,False,0,0,0,0,0
+616,O.R.G. Skincare,False,False,False,False,0,0,0,0,0
+617,OFRA Cosmetics,True,False,False,False,1,0,1,0,0
+618,ONE SEED,True,False,False,False,0,0,0,0,0
+619,ONNE,True,False,False,False,0,0,0,0,0
+620,OOO Polish (Triple O Polish),True,False,False,True,0,0,0,0,0
+621,OPV Beauty,False,False,False,True,0,0,0,0,0
+622,ORGAID,False,False,False,False,0,0,0,0,0
+623,ORLY,True,False,False,False,1,0,0,0,0
+624,OSEA,True,False,False,False,1,0,0,0,0
+625,OSEA Malibu,True,False,False,False,0,0,0,0,0
+626,OUAI,False,False,True,False,1,1,0,0,0
+627,Odylique,False,False,False,False,0,0,0,0,0
+628,Ole Henriksen,False,False,False,False,0,1,0,0,0
+629,Omcali,False,False,False,False,0,0,0,0,0
+630,Omolewa Cosmetics,False,False,False,True,0,0,0,0,0
+631,One Love Organics,False,False,False,False,0,0,0,0,0
+632,Onesta,False,False,False,False,0,0,0,0,0
+633,Orchard View Naturals (OV Naturals),True,False,False,False,0,0,0,0,0
+634,"Ordinary, The",True,False,True,False,1,1,1,1,0
+635,Organic Bath Co,False,False,False,True,0,0,0,0,0
+636,"Organic Skin Co., The",False,False,False,False,0,0,0,0,0
+637,Original Human Co,True,False,False,False,0,0,0,0,0
+638,Oui The People,False,False,False,True,0,0,0,0,0
+639,Out of Africa,False,False,False,False,0,0,0,0,0
+640,Overall Beauty Minerals,True,False,False,False,0,0,0,0,0
+641,Own Beauty,True,False,False,False,0,0,0,0,0
+642,Oxalis Apothecary,False,False,False,False,0,0,0,0,0
+643,POP Beauty,False,False,False,False,0,0,0,0,0
+644,PUR Cosmetics,False,True,False,False,1,0,1,0,0
+645,PYT Beauty,False,False,False,False,1,0,0,0,0
+646,Pacifica,True,False,False,False,1,0,0,0,0
+647,Pai Skincare,True,False,False,False,0,0,0,0,0
+648,Palate Polish,True,False,False,False,0,0,0,0,0
+649,Pangea Organics,False,False,False,False,0,0,0,0,0
+650,Parasilk,True,False,False,False,0,0,0,0,0
+651,Parissa,False,False,False,False,1,0,0,0,0
+652,Patchology,False,True,False,False,1,0,0,1,0
+653,Paul Mitchell,False,False,False,False,1,0,0,0,0
+654,Paula’s Choice,False,False,True,False,0,1,0,1,1
+655,Peacci,True,False,False,False,0,0,0,0,0
+656,Peace Out,False,False,False,False,0,1,0,0,0
+657,Peach & Lily,False,False,False,False,0,0,0,0,0
+658,Peach Slices,False,False,False,False,0,0,0,0,0
+659,Pear Nova,True,False,False,True,0,0,0,0,0
+660,PearlBar,True,False,False,False,0,0,0,0,0
+661,Pelle Beauty,True,False,False,False,0,0,0,0,0
+662,Peony Cosmetics,False,False,False,False,0,0,0,0,0
+663,People of Color Beauty,True,False,False,True,0,0,0,0,0
+664,Perfekt,False,False,False,False,0,1,0,0,0
+665,Perricone MD,False,False,False,False,1,1,0,1,1
+666,Personna (shaving razors),False,False,False,False,0,0,0,0,0
+667,Petal Fresh,False,False,False,False,0,0,0,0,0
+668,PhytoVitamins,True,False,False,False,0,0,0,0,0
+669,Piggy Paint,False,False,False,False,0,0,0,0,0
+670,Piggy Polish,False,False,False,False,0,0,0,0,0
+671,Pinrose,True,False,False,False,1,0,0,0,1
+672,PiperWai Natural Deodorant,True,False,False,False,0,0,0,0,0
+673,Pirouette Professionals,True,False,False,False,0,0,0,0,0
+674,Pixi,False,True,False,False,0,0,0,1,0
+675,Pixi Beauty,False,False,False,False,1,1,0,0,0
+676,Plaine Products,True,False,False,False,0,0,0,0,0
+677,Plant Apothecary,True,False,False,False,1,0,0,0,0
+678,Plant Therapy,False,False,False,False,0,0,0,0,0
+679,Plantioxidants,True,False,False,False,0,0,0,0,0
+680,Plantlife,False,False,False,False,0,0,0,0,0
+681,Plume Science,False,False,False,False,0,0,0,0,0
+682,Possets Perfume,True,False,False,False,0,0,0,0,0
+683,Practk,False,False,False,False,0,0,0,0,0
+684,Precious Skin Elixirs,False,False,False,False,0,0,0,0,0
+685,Preserve,True,False,False,False,0,0,0,0,0
+686,Previse,False,False,False,False,0,0,0,0,0
+687,Primark,False,False,False,False,0,0,0,0,0
+688,Priti NYC,True,False,False,False,0,0,0,0,0
+689,Profusion Cosmetics,False,False,False,False,0,0,0,0,0
+690,Promise Organic,False,False,False,False,0,0,0,0,0
+691,Prospector Co.,False,False,False,False,0,0,0,0,0
+692,Pur Home Clean,False,False,False,True,0,0,0,0,0
+693,Puracy,True,False,False,False,0,0,0,0,0
+694,Pure Chimp,True,False,False,False,0,0,0,0,0
+695,Pureology,True,False,True,False,1,1,0,1,0
+696,Puristry,True,False,False,False,0,0,0,0,0
+697,"PÜRE Collection, The",False,False,False,False,0,0,0,0,0
+698,Qualerex Beauty,False,False,False,False,0,0,0,0,0
+699,R + Co (R and Co),True,False,False,False,0,0,0,0,0
+700,R.L. Linden & Co,False,False,False,False,0,0,0,0,0
+701,RCMA,False,False,False,False,0,0,1,0,0
+702,RCMA Makeup,False,False,False,False,0,0,0,0,0
+703,REN Skincare,False,False,True,False,0,0,0,1,1
+704,RESCUE,False,False,False,False,0,0,0,0,0
+705,RMS Beauty,False,False,False,False,0,1,1,1,1
+706,Rare El’ements,False,False,False,False,0,0,0,0,0
+707,Raw Sugar Living,False,False,False,False,0,0,0,0,0
+708,Real Purity,False,False,False,False,0,0,0,0,0
+709,Real Simple Clean,False,False,False,False,0,0,0,0,0
+710,Real Techniques,False,False,False,False,1,0,0,0,0
+711,Red Apple Lipstick,True,False,False,False,0,0,0,0,0
+712,Reficis,True,False,False,False,0,0,0,0,0
+713,Relogy,True,False,False,False,0,0,0,0,0
+714,Remilia Hair,False,False,False,False,0,0,0,0,0
+715,Replere,True,False,False,False,0,0,0,0,0
+716,Reverie,True,False,False,False,0,1,0,0,0
+717,RevivaLabs,False,False,False,False,0,0,0,0,0
+718,Revolution Beauty,False,False,False,False,0,0,0,0,0
+719,Revolution Pro,False,False,False,False,1,0,0,0,0
+720,Revolution Skin,False,False,False,False,1,0,0,0,0
+721,Riki Loves Riki,False,False,False,False,1,0,0,0,0
+722,Rilastil,True,False,False,False,0,0,0,0,0
+723,Rise & Shine Naturals,False,False,False,False,0,0,0,0,0
+724,Rituel de Fille,False,False,False,False,1,0,0,1,0
+725,Root,True,False,False,False,0,0,0,0,0
+726,Root Science,True,False,False,False,0,0,0,0,0
+727,Rosebud Company,False,False,False,False,0,0,0,0,0
+728,Rosebud Perfume Co.,False,False,False,False,1,1,0,0,0
+729,Rosemira Organics,False,False,False,False,0,0,0,0,0
+730,Rouge Bunny Rouge,False,False,False,False,0,0,0,0,0
+731,Ruba Beauty,False,False,False,True,0,0,0,0,0
+732,Ruby White Tips,False,False,False,False,0,0,0,0,0
+733,S.W.Basics,False,False,False,False,0,0,0,0,0
+734,SIMKHA,True,False,False,True,0,0,0,0,0
+735,SIRCUIT Skin/SIRCUIT Cosmeceuticals,False,False,False,False,0,0,0,0,0
+736,SOL Body,True,False,False,False,0,0,0,0,0
+737,SOPHi by Piggy Paint,False,False,False,False,0,0,0,0,0
+738,SUGARLOOM Cosmetics,True,False,False,False,0,0,0,0,0
+739,SULA NYC,False,False,False,True,0,0,0,0,0
+740,SVELTA Tan,True,False,False,False,0,0,0,0,0
+741,Sabreen Cosmetics,True,False,False,True,0,0,0,0,0
+742,Sahajan,False,False,False,False,0,0,0,0,0
+743,Saje Natural Wellness,False,False,False,False,0,0,0,0,0
+744,San Francisco Salt Co,False,False,False,False,0,0,0,0,0
+745,Sante Natural Cosmetics,False,False,True,False,0,0,0,0,0
+746,Sanzi Performance Organics,True,False,False,False,0,0,0,0,0
+747,Sappo Hill Soapworks,True,False,False,False,0,0,0,0,0
+748,Saturated Colour,False,False,False,False,0,0,0,0,0
+749,Saya Skincare,False,False,False,False,0,0,0,0,0
+750,Schmidt’s Naturals,True,False,True,False,1,0,0,0,0
+751,SeSpring Skin,True,False,False,False,0,0,0,0,0
+752,Seed Phytonutrients,False,False,True,False,1,0,0,0,0
+753,Sensible Organics,False,False,False,False,0,0,0,0,0
+754,September Rose Co,True,False,False,True,0,0,0,0,0
+755,Seriously FAB,True,False,False,False,0,0,0,0,0
+756,Seventh Generation,False,False,True,False,0,0,0,0,0
+757,Shanel Cosmetics,False,False,False,True,0,0,0,0,0
+758,Shay & Blue London,True,False,False,False,0,0,0,0,0
+759,Shea Moisture,False,False,True,False,1,0,0,0,0
+760,ShiKai,False,False,False,False,0,0,0,0,0
+761,Shimirose,True,False,False,True,0,0,0,0,0
+762,Sibu Beauty,False,False,False,False,0,0,0,0,0
+763,Sienna X,False,False,False,False,0,0,0,0,0
+764,Sienna Byron Bay,True,False,False,False,0,0,0,0,0
+765,Sigma,False,False,False,False,0,0,0,1,0
+766,Sigma Beauty,False,False,False,False,0,0,1,0,1
+767,Silk Naturals,False,False,False,False,0,0,0,0,0
+768,Similisan,False,False,False,False,0,0,0,0,0
+769,Simple Sugars,False,False,False,False,0,0,0,0,0
+770,Simplicité Skin Care,True,False,False,False,0,0,0,0,0
+771,Sir Richards,True,False,False,False,0,0,0,0,0
+772,Skandinavisk,True,False,False,False,0,0,0,0,0
+773,Skin Actives Scientific,False,False,False,False,0,0,0,0,0
+774,Skin Deva,True,False,False,False,0,0,0,0,0
+775,Skin Dressing,True,False,False,False,0,0,0,0,0
+776,SkinOwl,True,False,False,False,0,0,0,1,0
+777,Skinchantment,True,False,False,False,0,0,0,0,0
+778,Sky Organics,False,False,False,False,0,0,0,0,0
+779,Skylar,True,False,False,False,0,1,0,0,0
+780,Smashbox,False,True,True,False,1,1,0,0,1
+781,Snapwhite,True,False,False,False,0,0,0,0,0
+782,"Soap Market, The",True,False,False,False,0,0,0,0,0
+783,Soapbox Soaps,False,False,False,False,0,0,0,0,0
+784,Soapwalla,False,False,False,False,0,0,0,0,0
+785,SoapyLayne,True,False,False,False,0,0,0,0,0
+786,SocialEyes Lashes,True,False,False,False,0,0,0,0,0
+787,Soffli,True,False,False,False,0,0,0,0,0
+788,Sol de Janeiro,False,True,True,False,0,1,0,1,0
+789,Sonia Kashuk,False,False,False,False,0,0,0,0,0
+790,Soultice Spa,True,False,False,False,0,0,0,0,0
+791,SpaRitual,True,False,False,False,0,0,0,0,0
+792,Spectrum Collections,True,False,False,False,0,0,0,0,0
+793,Sphynx,True,False,False,False,0,0,0,0,0
+794,Sprout Skincare,False,False,False,False,0,0,0,0,0
+795,Spruce & Co,False,False,False,False,0,0,0,0,0
+796,St. Tropica,True,False,False,False,0,0,0,0,0
+797,Starlooks,False,False,False,False,0,0,0,0,0
+798,Starrily,True,False,False,False,0,0,0,0,0
+799,Stila,False,False,False,False,1,1,1,1,1
+800,Stinkbug Naturals,False,False,False,False,0,0,0,0,0
+801,StriVectin,False,False,False,False,1,0,0,0,1
+802,Strobe Cosmetics,True,False,False,False,0,0,0,0,0
+803,Styli-Style Cosmetics,False,False,False,False,0,0,0,0,0
+804,Sugar & Oats,True,False,False,False,0,0,0,0,0
+805,Sugar Rush by Tarte,True,False,True,False,1,0,0,0,0
+806,Sugarpill,False,False,False,False,0,0,1,0,0
+807,Sun and Earth,True,False,False,False,0,0,0,0,0
+808,Sunday Riley,False,False,False,False,1,1,0,1,1
+809,Suntegrity,True,False,False,False,0,0,0,0,0
+810,Supa Herbal Greens,True,False,False,False,0,0,0,0,0
+811,Superdrug,False,False,False,False,0,0,0,0,0
+812,Supergoop!,False,False,False,False,0,1,0,1,1
+813,Sweat Cosmetics,True,False,False,False,0,0,0,0,0
+814,Sweet Anthem Perfumes,True,False,False,False,0,0,0,0,0
+815,Sweet Chef,True,False,False,False,0,0,0,0,0
+816,Swisspers,False,False,False,False,0,0,0,0,0
+817,T3,False,False,False,False,1,1,1,0,1
+818,TAY Skincare,False,False,False,False,0,0,0,0,0
+819,TRESemmé,False,False,True,False,1,0,0,0,0
+820,Tangle Teezer,False,False,False,False,0,0,0,0,0
+821,Tarte,False,True,True,False,1,1,0,0,0
+822,Tata Harper,False,True,False,False,0,1,0,1,1
+823,Tatcha,False,False,True,False,0,1,0,0,0
+824,Teadora,True,False,False,False,0,0,0,0,0
+825,Terre Mere Cosmetics,True,False,False,False,0,0,0,0,0
+826,Thera Wise,True,False,False,False,0,0,0,0,0
+827,TheraBreath,False,False,False,False,0,0,0,0,0
+828,Thesis,True,False,False,False,0,0,0,0,0
+829,Three Main,False,False,False,False,0,0,0,0,0
+830,Three Ships Beautypai,False,False,False,False,0,0,0,0,0
+831,Thrive Causemetics,True,False,False,False,0,0,0,0,0
+832,Tiki Bar Soap,False,False,False,False,0,0,0,0,0
+833,ToN Cosmetics,True,False,False,False,0,0,0,0,0
+834,Tomoe Kobo,False,False,False,False,0,0,0,0,0
+835,Tom’s of Maine,False,False,True,False,0,0,0,0,0
+836,Too Faced,False,True,True,False,1,1,0,1,1
+837,Topix Pharmaceuticals,False,False,False,False,0,0,0,0,0
+838,Topshop,False,False,False,False,0,0,0,0,0
+839,Tower 28,True,False,False,False,0,0,0,0,0
+840,Trader Joe’s Brand,False,False,False,False,0,0,0,0,0
+841,Tree Hut,False,False,False,False,1,0,0,0,0
+842,Tres Pure,False,False,False,False,0,0,0,0,0
+843,Triumph & Disaster,False,False,False,False,0,0,0,0,0
+844,Tropic Skincare,True,False,False,False,0,0,0,0,0
+845,TruSelf Organics,False,False,False,False,0,0,0,0,0
+846,True Moringa,True,False,False,False,0,0,0,0,0
+847,True Natural,False,False,False,False,0,0,0,0,0
+848,Trufora,True,False,False,False,0,0,0,0,0
+849,Trust Fund Beauty,True,False,False,False,0,0,0,0,0
+850,Typology,True,False,False,False,0,0,0,0,0
+851,ULTA,False,False,False,False,1,0,0,0,0
+852,URB Apothecary,False,False,False,False,0,0,0,0,0
+853,Ulta Collection,False,False,False,False,0,0,0,0,0
+854,Ultrasun,False,False,False,False,0,0,0,0,0
+855,Uma Oils,True,False,False,False,0,0,0,1,0
+856,Unfiltered By Raw Sugar,False,False,False,False,0,0,0,0,0
+857,Unsun Cosmetics,False,False,False,True,0,0,0,0,0
+858,Uoga Uoga,False,False,False,False,0,0,0,0,0
+859,Uoma Beauty,False,False,False,True,1,0,0,1,0
+860,Urban Decay,False,True,True,False,1,1,0,1,1
+861,Urban Veda,True,False,False,False,1,0,0,0,0
+862,Ursa Major,False,False,False,False,1,0,0,0,0
+863,VIRGINIC,True,False,False,False,0,0,0,0,0
+864,VOLANTE Skincare,False,False,False,False,0,0,0,0,0
+865,Vanity Planet,False,False,False,False,0,0,0,0,0
+866,Vapour Organic Beauty,False,False,False,False,0,0,0,0,0
+867,Velvet 59,True,False,False,False,0,0,0,0,0
+868,Verdant Botanicals,True,False,False,False,0,0,0,0,0
+869,Versed,True,False,False,False,0,0,0,0,0
+870,"Vintage Cosmetic Company, The",False,False,False,False,1,0,0,0,0
+871,Vitacare,False,False,False,False,0,0,0,0,0
+872,VoilaVe,False,False,False,False,0,0,0,0,0
+873,Volition Beauty,False,False,False,False,0,1,0,1,0
+874,W.S. Badger,False,False,False,False,0,0,0,0,0
+875,W3ll People,False,False,False,False,0,0,0,0,0
+876,WLKDKAT,True,False,False,False,0,0,0,0,0
+877,Wabi-Sabi Botanicals,True,False,False,False,0,0,0,0,0
+878,Waitrose,False,False,False,False,0,0,0,0,0
+879,Wander Beauty,False,False,False,False,0,1,0,1,1
+880,We Love Eyes,True,False,False,False,0,0,0,0,0
+881,Weleda,False,False,False,False,0,0,0,0,0
+882,"Well Organics, The",False,False,False,False,0,0,0,0,0
+883,Well Scent,True,False,False,False,0,0,0,0,0
+884,Wellness Prioritized,True,False,False,False,0,0,0,0,0
+885,Wen by Chaz Dean,False,False,False,False,0,0,0,0,0
+886,Whole Foods Brand/365,False,False,False,False,0,0,0,0,0
+887,WildMint Cosmetics,True,False,False,False,0,0,0,0,0
+888,Wrenn,True,False,False,False,0,0,0,0,0
+889,XX Revolution,False,False,False,False,1,0,0,0,0
+890,Xenca,False,False,False,False,0,0,0,0,0
+891,Xyrena,True,False,False,False,0,0,0,0,0
+892,YASOU natural skin care,False,False,False,False,0,0,0,0,0
+893,YLLO Scrub,True,False,False,False,0,0,0,0,0
+894,Yaby Cosmetics,False,False,False,False,0,0,0,0,0
+895,Yarok,False,False,False,False,0,0,0,0,0
+896,Yes to,False,False,False,False,1,0,1,0,0
+897,Yorba Organics,False,False,False,False,0,0,0,0,0
+898,Youngblood Mineral Cosmetics,False,False,False,False,0,0,0,0,0
+899,Youth to the People,True,False,True,False,0,1,0,0,0
+900,Yu-Be,False,False,False,False,0,0,0,0,0
+901,Z Natural Life,True,False,False,False,0,0,0,0,0
+902,Z Palette,False,False,False,False,0,0,1,0,0
+903,ZAK Body Care/ZAK Detox Deodorant,False,False,False,False,0,0,0,0,0
+904,Zabana Essentials,True,False,False,False,0,0,0,0,0
+905,Zaya Eco Skincare,True,False,False,False,0,0,0,0,0
+906,Zoella Beauty,False,False,False,False,0,0,0,0,0
+907,Zoeva,False,False,False,False,1,1,1,1,0
+908,Zoya,False,False,False,False,1,0,0,0,0
+909,ZuZu Luxe,False,False,False,False,0,0,0,0,0
+910,Zurvita,False,False,False,False,0,0,0,0,0
+911,Zyderma HS,True,False,False,False,0,0,0,0,0
+912,bare Minerals,False,True,True,False,1,1,0,0,1
+913,beautyblender,False,False,False,False,1,1,1,1,1
+914,bkr,False,False,False,False,0,1,0,0,0
+915,butter LONDON,False,False,False,False,0,0,0,0,1
+916,dermaGEEK,True,False,True,False,0,0,0,0,0
+917,oVertone,True,False,False,False,0,0,0,0,0
+918,piCture pOlish,False,False,False,False,0,0,0,0,0
+919,skyn ICELAND,True,False,False,False,1,0,0,1,0
+920,theBalm (The Balm),False,False,False,False,0,0,1,0,0
+921,washbeautyco. by MaskerAide,True,False,False,False,0,0,0,0,0
