@@ -1,10 +1,10 @@
-pip install streamlit
+
 import sqlite3
 import streamlit as st
 
 # Set up the web page title and icon
-st.set_page_config(page_title="Cruelty-Free Registry Search", page_icon="🌿")
-st.title("🌿 Cruelty-Free Registry")
+st.set_page_config(page_title="Cruelty-Free Registry Search", page_icon="")
+st.title(" Cruelty-Free Registry")
 st.write("Search the registry to verify active certification status.")
 
 # Create a text input box on the web page for the user
@@ -46,4 +46,4 @@ if st.button("Search Registry") or user_search:
         st.dataframe(table_data, use_container_width=True)
     else:
         st.warning(f"No brands matched '{user_search}'.")
-streamlit run app.py
+
